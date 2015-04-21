@@ -56,6 +56,9 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     DetailViewController *detail = [[DetailViewController alloc]init];
+    if (_favoriteList.count == 0) {
+        return;
+    }
     detail.newsId = _favoriteList[indexPath.row][@"newsId"];
     [self.navigationController pushViewController:detail animated:YES];
 }
@@ -89,7 +92,7 @@
         [cell.titleLabel sizeToFit];
     }
     else {
-        cell.titleLabel.text = @"请添加收藏";
+        cell.titleLabel.text = @"请先到新闻页中添加收藏";
         cell.titleLabel.textAlignment = NSTextAlignmentCenter;
         cell.titleLabel.font = [UIFont systemFontOfSize:17];
     }

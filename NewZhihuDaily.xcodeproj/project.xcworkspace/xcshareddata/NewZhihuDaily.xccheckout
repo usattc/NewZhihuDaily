@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF2AD37D-C903-405D-9E03-E956801DB0C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NewZhihuDaily</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B7E218F4850D55C14601DB0D9041FD3C1E24F5C4</key>
+		<string>https://github.com/usattc/NewZhihuDaily.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NewZhihuDaily.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B7E218F4850D55C14601DB0D9041FD3C1E24F5C4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/usattc/NewZhihuDaily.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B7E218F4850D55C14601DB0D9041FD3C1E24F5C4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B7E218F4850D55C14601DB0D9041FD3C1E24F5C4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NewZhihuDaily</string>
+		</dict>
+	</array>
+</dict>
+</plist>
